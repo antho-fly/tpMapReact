@@ -1,0 +1,8 @@
+.marker{
+    background-color: rgba(179, 240, 182, 0.473);
+    padding: 20px;
+    width: 500px;
+    margin-top: 50px;
+    border-radius: 15px;
+    text-align: center;
+}
